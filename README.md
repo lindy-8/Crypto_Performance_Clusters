@@ -1,6 +1,6 @@
 # Crypto_Clusters
 
-This is a Jupyter Notebook that utilizes unsupervised learning using K clusters and PCA data predictions. The crypto clusters application is used to observe the performance of cryptocurrency clusters trhoughout different time periods; which are then plotted on a graph to visually represent it. 
+This is a Jupyter Notebook that utilizes unsupervised learning using K clusters and PCA data predictions. The crypto clusters application is used to observe the performance of cryptocurrency clusters throughout different time periods; which are then plotted on a graph to visually represent it. 
 ---
 
 ## Technologies & Libraries
